@@ -306,5 +306,3 @@ class MinesweeperAI():
         if not options:
             return None
         return random.choice(options)
-
-# Created by Ethan Ali for CS50-AI
